@@ -13,7 +13,7 @@ import datascience from "./datascience.png";
 import gcloud from "./gcloud.png";
 import infy from "./infy.png";
 import VNR from "./VNR.png";
-import Infy from "./Infy.png";
+import Infy from "./infy.png";
 
 import cartoonise from "./cartoonise.png";
 import house from "./house.png";
